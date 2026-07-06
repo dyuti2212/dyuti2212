@@ -8,13 +8,14 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Smart Classroom Management System**
+- 🔭 I’m currently working on **Prediction of diseases in street animals using
+Deep Learning**
 
 - 🌱 I’m currently learning **Python, Java, C, C++, HTML, CSS, Javascript**
 
-- 👯 I’m looking to collaborate on **Human Computer Interaction**
+- 👯 I’m looking to collaborate on **Product Development and Research**
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Data Analysis and Machine Learning**
 
 - 📫 How to reach me **dyuti2212@gmail.com**
 
