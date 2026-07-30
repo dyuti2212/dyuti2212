@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Dyuti Sadhukhan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate junior data scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dyuti2212&label=Profile%20views&color=0e75b6&style=flat" alt="dyuti2212" /> </p>
 
@@ -8,8 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Prediction of diseases in street animals using
-Deep Learning**
+- 🔭 I’m currently working on **memory and musical training analysis**
 
 - 🌱 I’m currently learning **Python, Java, C, C++, HTML, CSS, Javascript**
 
