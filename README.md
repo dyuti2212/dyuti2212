@@ -2,15 +2,9 @@
 <h1 align="center">Hi 👋, I'm Dyuti Sadhukhan</h1>
 <h3 align="center">A passionate junior data scientist from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dyuti2212&label=Profile%20views&color=0e75b6&style=flat" alt="dyuti2212" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dyuti2212" alt="dyuti2212" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on **memory and musical training analysis**
 
-- 🌱 I’m currently learning **Python, Java, C, C++, HTML, CSS, Javascript**
+- 🌱 I’m currently learning **Python, SQL, C, C++, HTML, CSS, Javascript**
 
 - 👯 I’m looking to collaborate on **Product Development and Research**
 
