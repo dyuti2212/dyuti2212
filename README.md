@@ -1,31 +1,92 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Dyuti Sadhukhan</h1>
-<h3 align="center">A passionate junior data scientist from India</h3>
+<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | B.Tech Student from India 🇮🇳</h3>
 
-- 🔭 I’m currently working on **memory and musical training analysis**
-
-- 🌱 I’m currently learning **Python, SQL, C, C++, HTML, CSS, Javascript**
-
-- 👯 I’m looking to collaborate on **Product Development and Research**
-
-- 💬 Ask me about **Data Analysis and Machine Learning**
-
-- 📫 How to reach me **dyuti2212@gmail.com**
-
-- ⚡ Fun fact **hakuna matata**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dyuti-sadhukhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dyuti-sadhukhan/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/dew_tea_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dew_tea_/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/dyutiewzo/?ref=header_profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/dyutiewzo/?ref=header_profile" height="30" width="40" /></a>
+<p align="center">
+I enjoy solving real-world problems using data, machine learning, and research-driven approaches. Currently exploring the intersection of <b>AI, Cognitive Science, and Human Behavior</b>.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dyuti2212&show_icons=true&locale=en&layout=compact" alt="dyuti2212" /></p>
+## 👩‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dyuti2212&show_icons=true&locale=en" alt="dyuti2212" /></p>
+- 🎓 B.Tech student passionate about **Data Science, Machine Learning, and AI**
+- 🌱 Currently learning **Python, SQL, Statistics, Machine Learning, and Data Visualization**
+- 🤝 Open to collaborating on **Machine Learning, Research, Data Science, and Product Development**
+- 💬 Ask me about **Python, Data Analysis, Machine Learning**
+- 📫 Reach me at **dyuti2212@gmail.com**
+
+---
+
+## 🚀 Current Project
+
+🎵 **Memory and Musical Training Analysis**
+
+A machine learning project exploring whether musical experience is associated with different types of working memory.
+
+**Highlights**
+- Data Cleaning & Exploratory Data Analysis
+- Feature Engineering
+- Linear Regression
+- Random Forest Regression
+- Comparative analysis of Melody, Digit, and Spatial Memory
+
+---
+
+## 🛠 Tech Stack
+
+### Programming
+- Python
+- SQL
+
+### Data Science
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Jupyter Notebook
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📚 Currently Learning
+
+- Machine Learning
+- Deep Learning
+- Data Visualization
+- Statistics for Data Science
+- Research Methodology
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dyuti2212&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dyuti2212&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyuti2212&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/dyuti-sadhukhan/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" />
+</a>
+
+<a href="mailto:dyuti2212@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="35"/>
+</a>
+</p>
+
+---
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dyuti2212&" alt="dyuti2212" /></p>
