@@ -62,19 +62,6 @@ A machine learning project exploring whether musical experience is associated wi
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dyuti2212&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dyuti2212&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyuti2212&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 <p align="left">
@@ -88,5 +75,3 @@ A machine learning project exploring whether musical experience is associated wi
 </p>
 
 ---
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dyuti2212&" alt="dyuti2212" /></p>
